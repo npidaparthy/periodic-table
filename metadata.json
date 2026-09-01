@@ -1,0 +1,6 @@
+{
+  "name": "Periodic Table & Chemistry Lab",
+  "description": "Interactive Periodic Table with EN/TE bilingual localization, trends visualizer, study reader, audio narration, and modular offline data architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

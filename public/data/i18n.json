@@ -1,0 +1,14 @@
+{
+  "en": {
+    "appTitle": "Periodic Table & Chemistry Lab",
+    "tagline": "Interactive Chemical Element Explorer, Trends Visualizer & Quiz Engine",
+    "language": "English",
+    "code": "en"
+  },
+  "te": {
+    "appTitle": "ఆవర్తన పట్టిక & రసాయన శాస్త్ర ప్రయోగశాల",
+    "tagline": "రసాయన మూలకాల అన్వేషణ, ఆవర్తన ధర్మాలు మరియు క్విజ్ పరీక్షా వేదిక",
+    "language": "తెలుగు (Telugu)",
+    "code": "te"
+  }
+}
